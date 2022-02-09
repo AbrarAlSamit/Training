@@ -1,0 +1,10 @@
+body {
+    background-image: url(Solar-Model.png);
+    background-repeat: no-repeat;
+    color: rgb(255 255 255);
+    background-size: 1400px 650px;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+}
