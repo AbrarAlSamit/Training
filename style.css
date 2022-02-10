@@ -1,10 +1,16 @@
-body {
-    background-image: url(Solar-Model.png);
-    background-repeat: no-repeat;
-    color: rgb(255 255 255);
-    background-size: 1400px 650px;
-    background-attachment: fixed;
+.sidebar{
+    height:700px;
+    width: 400px;
+    background: url("PinkTree.jpg") no-repeat;
+    position: absolute;
+    top:50px;
+    right:0px;
+    border: 5px solid rgb(141, 21, 135);
+    border-radius: 4px;
+
+    
 }
 h1 {
-    text-align: center;
+    text-align:center;
+    color: rgba(221, 12, 248, 0.9);
 }
